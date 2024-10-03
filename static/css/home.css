@@ -54,7 +54,7 @@ body {
 }
 
 .searchbar {
-    width: -10%;
+    width: 36%;
     margin: 0 18% 5% 0;
     text-align: end;
 }
@@ -85,7 +85,7 @@ body {
 
 .searchbar img {
     position: absolute;
-    margin-left: -2.5rem;
+    margin-left: -16.9rem;
     margin-top: -0.8rem;
 }
 
