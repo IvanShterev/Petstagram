@@ -85,8 +85,8 @@ body {
 
 .searchbar img {
     position: absolute;
-    margin-left: -16.9rem;
-    margin-top: -0.8rem;
+    margin-left: -2.5rem;
+    margin-top: -2.45rem;
 }
 
 .searchbar input::placeholder {
